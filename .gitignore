@@ -25,3 +25,7 @@ dist-ssr
 /.eslintrc.cjs
 /.vs/ReactAppTut/FileContentIndex
 /.vs/ReactAppTut/config
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/ReactAppTut/v17/DocumentLayout.json
+/.vs/ReactAppTut/v17/.wsuo
